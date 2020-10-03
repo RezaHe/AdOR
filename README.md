@@ -1,2 +1,2 @@
 # AdOR
-Adversarial Orthogonal Regression
+Adversarial Orthogonal Regression.
